@@ -1,0 +1,10 @@
+a.out
+*.o
+pmq2
+pmq3
+miniminishell
+process_diagnostics
+
+*.log
+*.txt
+!README.md
